@@ -59,17 +59,10 @@ Obtém uma lista de veículos de acordo com os parâmetros passados como QuerySt
 ### Parâmetros 
 | nome| tipo   |   Exemplo|Descrição|
 |------------|--------|--------|--------|
-| tipoVeiculo      | int | 1,2,3 |Carro, caminhão, moto|
 | marca      | string | Renault |Marca do veículo|
-| modelo      | int | 1717 |referente ao Cavallino|
 | cidade     | int    |   3128| Código da cidade|
 | valorDe    | int    |   12000|Valor mínimo do carro sem casas decimais, somente inteiro|
 | valorAte    | int    | 25000|Valor máximo do carro sem casas decimais, somente inteiro|
-| particular    | string    | origem | Quando presente, sinaliza particular|
-| revenda    | string    | origem | Quando presente, sinaliza revenda|
-| novo    | string    | estado | Quando presente, sinaliza zero km|
-| seminovo    | string    | estado | Quando presente, sinaliza seminovo|
-| placaId    | string    | HJM1217 | Quando presente, sinaliza veículo específico|
 | anoDe    | int    |  2003|Ano máximo do carro com quatro dígitos|
 | anoAte    | int    |  2005|Ano mínimo do carro com quatro dígitos|
 | pagina     | int    |   3|Páginação|
