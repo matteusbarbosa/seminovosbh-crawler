@@ -48,8 +48,6 @@ Good look!
 
 # Documentação
 
-![filtros seminovosbh](https://ibb.co/80V1Jh7)
-
 # GET 
 ## {/busca?parametro=valor}
 Ex.: ```/busca?marca=Renault&pagina=1&cidade=3148```
